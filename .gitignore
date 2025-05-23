@@ -111,3 +111,6 @@ results*
 *.mat
 *.tar
 *.bin
+
+/top5
+*.tar.gz
